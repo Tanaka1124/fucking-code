@@ -6,7 +6,6 @@ public class test {
 		for (int hw : HELLO_WORLD) {
 			System.out.print((char) buf);
 			buf += hw;
-
 		}
 	}
 }
